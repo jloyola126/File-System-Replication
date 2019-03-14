@@ -1,0 +1,17 @@
+C++ Project for cloning file request key accesses
+by inputting keys and values and correctly listing 
+the results using self-coded templates.
+
+-bash-#$ make
+-bash-#$ keyvalue
+
+
+COMMANDS:
+#           - signify comments when inputted into the terminal
+key         - prints key and value 
+key =       - will delete the mapped key and value pair
+key = value - will replace an existing key if found, otherwise add it in lexicographic order
+=           - will print all keys and values
+= value     - will print all keys with the specified value
+
+Programmer: Jonathan Loyola
