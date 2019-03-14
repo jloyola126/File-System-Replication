@@ -1,6 +1,5 @@
 // $Id: main.cpp,v 1.11 2018-01-25 14:19:29-08 - - $
 //Programmers: Jonathan Loyola and Chandler Borrero
-//PARTNER PROGRAM- CMPS109 ASG3 = Templates
 #include <cstdlib>
 #include <exception>
 #include <iostream>
