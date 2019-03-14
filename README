@@ -7,7 +7,7 @@ the results using self-coded templates.
 
 
 COMMANDS:
-#           - signify comments when inputted into the terminal
+#           - signify comments 
 key         - prints key and value 
 key =       - will delete the mapped key and value pair
 key = value - will replace an existing key if found, otherwise add it in lexicographic order
